@@ -48,7 +48,7 @@ O repositório está organizado de forma autocontida, seguindo os padrões exigi
 ```text
 T1/
 ├── README.md
-├── evidencias/
+├── imgs/
 │   └── accepted.png             # Comprovante de aprovação da submissão
 ├── apresentacao/
 │   └── apresentacao.pdf         # Slides usados na apresentação (5 min)
