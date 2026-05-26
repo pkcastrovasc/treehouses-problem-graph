@@ -120,4 +120,4 @@ vereditos de Wrong Answer gerados por arredondamento indevido
 
 ## ✅ Comprovante de Accepted
 Abaixo está a evidência da submissão com sucesso na plataforma **Kattis**:
-![Comprovante de Accepted.png](imgs/Comprovante%20de%20Accepted.png)
+![accepted.png](imgs/accepted.png)
